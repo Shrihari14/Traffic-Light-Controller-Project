@@ -1,0 +1,1 @@
+The Traffic Light Controller is a systemverilog project which uses an FPGA board and a breadboard to implement a traffic light on a T intersection.The FPGA is connected to a breadboard which houses the LEDs which imitate the traffic lights.
